@@ -1,3 +1,5 @@
+#Amazing Project created with Django special framework
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
